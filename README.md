@@ -14,11 +14,15 @@ Coming Soon...
 
 ```bash
 maham-school/
-├── client-public/         # Public website
-├── client-admin/          # Admin, Student, Teacher, Parent dashboards
-├── shared-components/     # Reusable components (optional)
-├── README.md
-└── ...
+│
+├── External-site/           # الموقع الخارجي (React, Angular...)
+├── mobile-app/              # تطبيق الموبايل (React Native, Flutter...)
+├── api/                     # API (ASP.NET Core, Node.js...)
+├── database/                # سكربتات إنشاء قاعدة البيانات / البيانات الأولية
+├── docs/                    # وثائق المشروع
+└── README.md
+
+
 🚀 Features
 🌍 Public Website
 School introduction and news
